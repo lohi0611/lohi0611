@@ -10,18 +10,18 @@
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🚀 DSA Enthusiast  
-💻 LeetCode Solver  
-🌱 Full Stack Learner  
-🧠 Java | C | Problem Solving  
-🎯 Future Product-Based Company Engineer  
+- 🚀 DSA Enthusiast  
+- 💻 LeetCode Solver  
+- 🌱 Full Stack Learner  
+- 🧠 Java | C | Problem Solving  
+- 🎯 On a mission to crack top product-based companies  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lohitha-siddamreddy/ target="_blank">
+  <a href="https://www.linkedin.com/in/lohitha-siddamreddy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:lohithasiddamreddy@gmail.com">
@@ -63,7 +63,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrekshithReddy/PrekshithReddy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/lohi0611/lohi0611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -73,5 +73,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-![Snake animation](https://raw.githubusercontent.com/lohi0611/lohi0611/output/github-contribution-grid-snake.svg)
