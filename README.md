@@ -1,75 +1,31 @@
-<h1 align="center">Hi 👋, I'm Lohitha Siddamreddy</h1>
+<h1 align="center">Hey 👋 I'm Lohitha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;DSA+Enthusiast;Problem+Solver;Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=F72585&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code;DSA+is+my+power;Future+Software+Engineer;Learning+something+new+everyday" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:00f2fe&height=120&section=header"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🌸 About Me
 
-<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-- 🚀 DSA Enthusiast  
-- 💻 LeetCode Solver  
-- 🌱 Full Stack Learner  
-- 🧠 Java | C | Problem Solving  
-- 🎯 On a mission to crack top product-based companies  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lohitha-siddamreddy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lohithasiddamreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+- 🧠 Currently deep diving into **Data Structures & Algorithms**
+- 💻 Practicing consistently on **LeetCode**
+- 🌱 Exploring **Full Stack Development**
+- ⚡ Comfortable with **Java, C & problem solving**
+- 🎯 Goal → Becoming a developer in top product-based companies  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Currently Leveling Up
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,js,nodejs,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats & Skills
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lohi0611&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohi0611&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lohi0611&theme=tokyonight&hide_border=true" height="175"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lohi0611&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lohi0611/lohi0611/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## ⚡ Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+```text
+DSA        ███████████░░░░  75%
+Full Stack ███████░░░░░░░  50%
+Projects   ████████░░░░░░  60%
+Consistency ████████████░░ 85%
