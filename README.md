@@ -73,3 +73,5 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
+
+![Snake animation](https://raw.githubusercontent.com/lohi0611/lohi0611/output/github-contribution-grid-snake.svg)
