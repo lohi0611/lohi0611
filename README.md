@@ -40,7 +40,7 @@
 ## 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/lohi0611/Lumina-AI">
+  <a href="https://github.com/lohi0611/Aegis-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohi0611&repo=Lumina-AI&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
